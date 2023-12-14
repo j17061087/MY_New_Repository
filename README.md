@@ -1,4 +1,4 @@
-# MY_New_Repository
+# Lovely_loveseats_codecademy
 codecademy training =D 
 (edited w/ VSCode THANK YOU!!!!)
 # Item descriptions and prices
